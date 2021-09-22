@@ -101,7 +101,7 @@ fisher.test(table2)
 ```
 
 We made a chi sq test to see if there is any difference between the races' opinion on capital punishment. 
-The major contribution came from the "black" race on the chi sq test as per the table above specifically on the 3rd table.  
+The major contribution came from the "black" race on the chi sq test as per the table above specifically on the 3rd table named "Contributions to the chi-square statistics". The 2nd less contributions came from the "white" race. Just below the contributions chart, we could identify that the chi sq statistics is 32X the the degrees of freedom. We can say that there is really a difference. 
 
 ```{r}
 fisherXY = function(x, y, confL = 0, printAll=FALSE){
