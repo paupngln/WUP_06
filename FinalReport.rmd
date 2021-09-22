@@ -62,7 +62,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-
+As per the graph above, which is called a percentage plot. According to the races, "white" and "other" around 65% approved while 35% opposed capital punishemnt. While around 50% of the race "black" opposed capital punshiment and 50% approved. The race "black" take's front and center. 
 
 ### Numerical Descriptive Results
 
