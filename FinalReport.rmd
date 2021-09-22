@@ -62,7 +62,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-As per the graph above, which is called a percentage plot. According to the races, "white" and "other" around 65% approved while 35% opposed capital punishemnt. While around 50% of the race "black" opposed capital punshiment and 50% approved. The race "black" take's front and center. 
+As per the graph above, which is called a percentage plot. According to the graph, 68% of "white" race favor capital punishment while 32% oppose it. Meanwhile  "other" race has a more significant amount of people who are for capital punishment, 56% are in favor while, 44% are not. The "black" race on the other hand had a result of 46% are in favor while 54% are not. All of them are different from each other, but the "black" race is opposite from the other 2. 
 
 ### Numerical Descriptive Results
 
@@ -81,7 +81,7 @@ colPerc(table2)
 
 The numerical descriptive results helps reinforce the data from the graphical results.  
 
-As per the graph, almost 68% of both "white" race favor capital punishment while 32% oppose it. Meanwhile  "other" race has a more significant amount of people who are for capital punishment, 56% are in favor while, 44% are not. The "black" race on the other hand had a result of 46% are in favor while 54% are not.
+As per the graph, almost 68% of "white" race favor capital punishment while 32% oppose it. Meanwhile  "other" race has a more significant amount of people who are for capital punishment, 56% are in favor while, 44% are not. The "black" race on the other hand had a result of 46% are in favor while 54% are not.
 
 
 ## Inferential Results
