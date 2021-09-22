@@ -98,6 +98,10 @@ chisqtestGC(table2)
 fisher.test(table2)
 #fisherXY(mydata$race,mydata$cappun)
 ```
+
+We made a chi sq test to see if there is any difference between the races' opinion on capital punishment. 
+The major contribution came from the "black" race on the chi sq test as per the table above. 
+
 ```{r}
 fisherXY = function(x, y, confL = 0, printAll=FALSE){
   # Inputs: 
