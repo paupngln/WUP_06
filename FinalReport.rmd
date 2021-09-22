@@ -79,7 +79,9 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
-The numerical descriptive results helps reinforce the data from the graphical results. As per the graph, almost 68% of both "white" and "other" races are in favor of capital punishment. While around, 50% of the "black" favors it and 50% disapproves. 
+The numerical descriptive results helps reinforce the data from the graphical results. As per the graph, almost 68% of both "white" and "other" races are in favor of capital punishment while 31% oppose it. 
+
+While around, 50% of the "black" favors it and 50% disapproves. 
 
 ## Inferential Results
 
