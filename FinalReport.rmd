@@ -174,8 +174,14 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 fisherXY(mydata$cappun,mydata$race)
 ```
 
-As per the results above, we could clearly see that there is really a difference between "white" and "black" and "other" and "black". Since the p-value between "white" and "other" is high, we could safely assume that there is little difference between "white" and "other" in their preference of capital punishment.
+Thru the low p-value, we we're able to figure out that there was a differnce between all 3 races. the p-value for "black" and "other" were 0.02479 while the p-value for "white" and "others" were 0.0002819, and the p-value for comparing "black" and "white" were 0.0000000000000575. The biggest difference is between the "black" and "white" group, coming in 2nd is the "white" and "other" group on their views on capital punshiment. 
+
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The master branch showed contrast between all of the 3 groups, but more so between the "black" and "white" group. While branch number 2 showed little to no noticeable difference between the "white" and "other" group. The master branch showed a big diff between the 2 groups. 
+
+This is the result when your have a larger data set. You are able to get a clearer view of the everything. 
+ 
